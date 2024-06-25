@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Worker {
+module Calculator {
 }
